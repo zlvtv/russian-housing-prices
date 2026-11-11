@@ -1,0 +1,371 @@
+[
+  {
+    "region": 10,
+    "quarter": "2025-04-01",
+    "contract": "ДКП",
+    "observations": 1169,
+    "p25_rub_m2": 42639.0,
+    "median_rub_m2": 83618.0,
+    "p75_rub_m2": 106667.0
+  },
+  {
+    "region": 10,
+    "quarter": "2025-07-01",
+    "contract": "ДКП",
+    "observations": 1383,
+    "p25_rub_m2": 48165.0,
+    "median_rub_m2": 82774.0,
+    "p75_rub_m2": 111437.0
+  },
+  {
+    "region": 10,
+    "quarter": "2025-10-01",
+    "contract": "ДКП",
+    "observations": 1820,
+    "p25_rub_m2": 50798.0,
+    "median_rub_m2": 85507.0,
+    "p75_rub_m2": 111340.0
+  },
+  {
+    "region": 10,
+    "quarter": "2026-01-01",
+    "contract": "ДКП",
+    "observations": 1265,
+    "p25_rub_m2": 52067.0,
+    "median_rub_m2": 88704.0,
+    "p75_rub_m2": 115385.0
+  },
+  {
+    "region": 11,
+    "quarter": "2025-04-01",
+    "contract": "ДКП",
+    "observations": 1470,
+    "p25_rub_m2": 16667.0,
+    "median_rub_m2": 40816.0,
+    "p75_rub_m2": 80000.0
+  },
+  {
+    "region": 11,
+    "quarter": "2025-07-01",
+    "contract": "ДКП",
+    "observations": 1678,
+    "p25_rub_m2": 19182.0,
+    "median_rub_m2": 46852.0,
+    "p75_rub_m2": 80745.0
+  },
+  {
+    "region": 11,
+    "quarter": "2025-10-01",
+    "contract": "ДКП",
+    "observations": 2016,
+    "p25_rub_m2": 21246.0,
+    "median_rub_m2": 53543.0,
+    "p75_rub_m2": 87041.0
+  },
+  {
+    "region": 11,
+    "quarter": "2026-01-01",
+    "contract": "ДКП",
+    "observations": 1748,
+    "p25_rub_m2": 20624.0,
+    "median_rub_m2": 51896.0,
+    "p75_rub_m2": 86522.0
+  },
+  {
+    "region": 29,
+    "quarter": "2025-04-01",
+    "contract": "ДКП",
+    "observations": 2055,
+    "p25_rub_m2": 45588.0,
+    "median_rub_m2": 88779.0,
+    "p75_rub_m2": 115630.0
+  },
+  {
+    "region": 29,
+    "quarter": "2025-07-01",
+    "contract": "ДКП",
+    "observations": 2314,
+    "p25_rub_m2": 46296.0,
+    "median_rub_m2": 87421.0,
+    "p75_rub_m2": 113514.0
+  },
+  {
+    "region": 29,
+    "quarter": "2025-10-01",
+    "contract": "ДКП",
+    "observations": 2688,
+    "p25_rub_m2": 53797.0,
+    "median_rub_m2": 91611.0,
+    "p75_rub_m2": 117647.0
+  },
+  {
+    "region": 29,
+    "quarter": "2026-01-01",
+    "contract": "ДКП",
+    "observations": 2431,
+    "p25_rub_m2": 51136.0,
+    "median_rub_m2": 91241.0,
+    "p75_rub_m2": 119427.0
+  },
+  {
+    "region": 35,
+    "quarter": "2026-01-01",
+    "contract": "ДКП",
+    "observations": 33,
+    "p25_rub_m2": 24450.0,
+    "median_rub_m2": 63776.0,
+    "p75_rub_m2": 81776.0
+  },
+  {
+    "region": 39,
+    "quarter": "2025-04-01",
+    "contract": "ДКП",
+    "observations": 2257,
+    "p25_rub_m2": 65268.0,
+    "median_rub_m2": 99502.0,
+    "p75_rub_m2": 130556.0
+  },
+  {
+    "region": 39,
+    "quarter": "2025-07-01",
+    "contract": "ДКП",
+    "observations": 2443,
+    "p25_rub_m2": 62147.0,
+    "median_rub_m2": 97972.0,
+    "p75_rub_m2": 130428.0
+  },
+  {
+    "region": 39,
+    "quarter": "2025-10-01",
+    "contract": "ДКП",
+    "observations": 2695,
+    "p25_rub_m2": 70069.0,
+    "median_rub_m2": 107576.0,
+    "p75_rub_m2": 136752.0
+  },
+  {
+    "region": 39,
+    "quarter": "2026-01-01",
+    "contract": "ДКП",
+    "observations": 2177,
+    "p25_rub_m2": 70796.0,
+    "median_rub_m2": 109661.0,
+    "p75_rub_m2": 140690.0
+  },
+  {
+    "region": 47,
+    "quarter": "2025-04-01",
+    "contract": "ДКП",
+    "observations": 690,
+    "p25_rub_m2": 73009.0,
+    "median_rub_m2": 119342.0,
+    "p75_rub_m2": 152946.0
+  },
+  {
+    "region": 47,
+    "quarter": "2025-07-01",
+    "contract": "ДКП",
+    "observations": 902,
+    "p25_rub_m2": 86124.0,
+    "median_rub_m2": 132100.0,
+    "p75_rub_m2": 166038.0
+  },
+  {
+    "region": 47,
+    "quarter": "2025-10-01",
+    "contract": "ДКП",
+    "observations": 3702,
+    "p25_rub_m2": 72790.0,
+    "median_rub_m2": 115142.0,
+    "p75_rub_m2": 160057.0
+  },
+  {
+    "region": 47,
+    "quarter": "2026-01-01",
+    "contract": "ДКП",
+    "observations": 4082,
+    "p25_rub_m2": 71066.0,
+    "median_rub_m2": 116848.0,
+    "p75_rub_m2": 166667.0
+  },
+  {
+    "region": 51,
+    "quarter": "2025-04-01",
+    "contract": "ДКП",
+    "observations": 1576,
+    "p25_rub_m2": 37611.0,
+    "median_rub_m2": 64725.0,
+    "p75_rub_m2": 93407.0
+  },
+  {
+    "region": 51,
+    "quarter": "2025-07-01",
+    "contract": "ДКП",
+    "observations": 1622,
+    "p25_rub_m2": 41157.0,
+    "median_rub_m2": 68227.0,
+    "p75_rub_m2": 95706.0
+  },
+  {
+    "region": 51,
+    "quarter": "2025-10-01",
+    "contract": "ДКП",
+    "observations": 1989,
+    "p25_rub_m2": 44218.0,
+    "median_rub_m2": 70513.0,
+    "p75_rub_m2": 96774.0
+  },
+  {
+    "region": 51,
+    "quarter": "2026-01-01",
+    "contract": "ДКП",
+    "observations": 1713,
+    "p25_rub_m2": 46667.0,
+    "median_rub_m2": 71569.0,
+    "p75_rub_m2": 99089.0
+  },
+  {
+    "region": 53,
+    "quarter": "2025-04-01",
+    "contract": "ДКП",
+    "observations": 1044,
+    "p25_rub_m2": 31797.0,
+    "median_rub_m2": 58475.0,
+    "p75_rub_m2": 86379.0
+  },
+  {
+    "region": 53,
+    "quarter": "2025-07-01",
+    "contract": "ДКП",
+    "observations": 1300,
+    "p25_rub_m2": 30488.0,
+    "median_rub_m2": 59896.0,
+    "p75_rub_m2": 89520.0
+  },
+  {
+    "region": 53,
+    "quarter": "2025-10-01",
+    "contract": "ДКП",
+    "observations": 1453,
+    "p25_rub_m2": 40291.0,
+    "median_rub_m2": 69098.0,
+    "p75_rub_m2": 97475.0
+  },
+  {
+    "region": 53,
+    "quarter": "2026-01-01",
+    "contract": "ДКП",
+    "observations": 1227,
+    "p25_rub_m2": 46512.0,
+    "median_rub_m2": 75388.0,
+    "p75_rub_m2": 102389.0
+  },
+  {
+    "region": 60,
+    "quarter": "2025-04-01",
+    "contract": "ДКП",
+    "observations": 253,
+    "p25_rub_m2": 30116.0,
+    "median_rub_m2": 58603.0,
+    "p75_rub_m2": 82781.0
+  },
+  {
+    "region": 60,
+    "quarter": "2025-07-01",
+    "contract": "ДКП",
+    "observations": 267,
+    "p25_rub_m2": 34364.0,
+    "median_rub_m2": 60694.0,
+    "p75_rub_m2": 82397.0
+  },
+  {
+    "region": 60,
+    "quarter": "2025-10-01",
+    "contract": "ДКП",
+    "observations": 222,
+    "p25_rub_m2": 40928.0,
+    "median_rub_m2": 68333.0,
+    "p75_rub_m2": 86500.0
+  },
+  {
+    "region": 60,
+    "quarter": "2026-01-01",
+    "contract": "ДКП",
+    "observations": 707,
+    "p25_rub_m2": 45666.0,
+    "median_rub_m2": 73198.0,
+    "p75_rub_m2": 92408.0
+  },
+  {
+    "region": 78,
+    "quarter": "2025-04-01",
+    "contract": "ДКП",
+    "observations": 10216,
+    "p25_rub_m2": 133940.0,
+    "median_rub_m2": 176558.0,
+    "p75_rub_m2": 220548.0
+  },
+  {
+    "region": 78,
+    "quarter": "2025-07-01",
+    "contract": "ДКП",
+    "observations": 11316,
+    "p25_rub_m2": 139535.0,
+    "median_rub_m2": 180451.0,
+    "p75_rub_m2": 227139.0
+  },
+  {
+    "region": 78,
+    "quarter": "2025-10-01",
+    "contract": "ДКП",
+    "observations": 13207,
+    "p25_rub_m2": 144144.0,
+    "median_rub_m2": 186969.0,
+    "p75_rub_m2": 233986.0
+  },
+  {
+    "region": 78,
+    "quarter": "2026-01-01",
+    "contract": "ДКП",
+    "observations": 10788,
+    "p25_rub_m2": 149351.0,
+    "median_rub_m2": 193407.0,
+    "p75_rub_m2": 243056.0
+  },
+  {
+    "region": 83,
+    "quarter": "2025-04-01",
+    "contract": "ДКП",
+    "observations": 68,
+    "p25_rub_m2": 72359.0,
+    "median_rub_m2": 94246.0,
+    "p75_rub_m2": 112847.0
+  },
+  {
+    "region": 83,
+    "quarter": "2025-07-01",
+    "contract": "ДКП",
+    "observations": 56,
+    "p25_rub_m2": 66890.0,
+    "median_rub_m2": 95607.0,
+    "p75_rub_m2": 110883.0
+  },
+  {
+    "region": 83,
+    "quarter": "2025-10-01",
+    "contract": "ДКП",
+    "observations": 47,
+    "p25_rub_m2": 82938.0,
+    "median_rub_m2": 98814.0,
+    "p75_rub_m2": 112450.0
+  },
+  {
+    "region": 83,
+    "quarter": "2026-01-01",
+    "contract": "ДКП",
+    "observations": 82,
+    "p25_rub_m2": 89577.0,
+    "median_rub_m2": 107303.0,
+    "p75_rub_m2": 120907.0
+  }
+]

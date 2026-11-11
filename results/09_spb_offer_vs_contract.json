@@ -1,0 +1,20 @@
+[
+  {
+    "year": 2024,
+    "observations": 42267,
+    "p25_rub_m2": 126126.0,
+    "median_rub_m2": 167089.0,
+    "p75_rub_m2": 208719.0,
+    "offer_clusters": 1519,
+    "median_of_cluster_medians": 189011.0
+  },
+  {
+    "year": 2025,
+    "observations": 44907,
+    "p25_rub_m2": 138126.0,
+    "median_rub_m2": 180060.0,
+    "p75_rub_m2": 225532.0,
+    "offer_clusters": 1554,
+    "median_of_cluster_medians": 198711.0
+  }
+]

@@ -1,0 +1,604 @@
+[
+  {
+    "region": 1,
+    "price_blocks": 79,
+    "matched_blocks": 79,
+    "dkp_observations": 3417,
+    "matched_dkp_observations": 3417
+  },
+  {
+    "region": 2,
+    "price_blocks": 977,
+    "matched_blocks": 967,
+    "dkp_observations": 57118,
+    "matched_dkp_observations": 56913
+  },
+  {
+    "region": 3,
+    "price_blocks": 212,
+    "matched_blocks": 210,
+    "dkp_observations": 8960,
+    "matched_dkp_observations": 8909
+  },
+  {
+    "region": 4,
+    "price_blocks": 31,
+    "matched_blocks": 30,
+    "dkp_observations": 600,
+    "matched_dkp_observations": 588
+  },
+  {
+    "region": 5,
+    "price_blocks": 195,
+    "matched_blocks": 187,
+    "dkp_observations": 12024,
+    "matched_dkp_observations": 11901
+  },
+  {
+    "region": 6,
+    "price_blocks": 29,
+    "matched_blocks": 29,
+    "dkp_observations": 2150,
+    "matched_dkp_observations": 2150
+  },
+  {
+    "region": 7,
+    "price_blocks": 51,
+    "matched_blocks": 51,
+    "dkp_observations": 2474,
+    "matched_dkp_observations": 2474
+  },
+  {
+    "region": 8,
+    "price_blocks": 36,
+    "matched_blocks": 34,
+    "dkp_observations": 1049,
+    "matched_dkp_observations": 1020
+  },
+  {
+    "region": 9,
+    "price_blocks": 44,
+    "matched_blocks": 44,
+    "dkp_observations": 1075,
+    "matched_dkp_observations": 1075
+  },
+  {
+    "region": 10,
+    "price_blocks": 278,
+    "matched_blocks": 273,
+    "dkp_observations": 9384,
+    "matched_dkp_observations": 9314
+  },
+  {
+    "region": 11,
+    "price_blocks": 233,
+    "matched_blocks": 233,
+    "dkp_observations": 13957,
+    "matched_dkp_observations": 13957
+  },
+  {
+    "region": 12,
+    "price_blocks": 204,
+    "matched_blocks": 202,
+    "dkp_observations": 9876,
+    "matched_dkp_observations": 9838
+  },
+  {
+    "region": 13,
+    "price_blocks": 109,
+    "matched_blocks": 109,
+    "dkp_observations": 2996,
+    "matched_dkp_observations": 2996
+  },
+  {
+    "region": 14,
+    "price_blocks": 216,
+    "matched_blocks": 214,
+    "dkp_observations": 10376,
+    "matched_dkp_observations": 10321
+  },
+  {
+    "region": 15,
+    "price_blocks": 133,
+    "matched_blocks": 130,
+    "dkp_observations": 4995,
+    "matched_dkp_observations": 4948
+  },
+  {
+    "region": 16,
+    "price_blocks": 673,
+    "matched_blocks": 673,
+    "dkp_observations": 28183,
+    "matched_dkp_observations": 28183
+  },
+  {
+    "region": 17,
+    "price_blocks": 64,
+    "matched_blocks": 40,
+    "dkp_observations": 1833,
+    "matched_dkp_observations": 1495
+  },
+  {
+    "region": 18,
+    "price_blocks": 540,
+    "matched_blocks": 537,
+    "dkp_observations": 24588,
+    "matched_dkp_observations": 24546
+  },
+  {
+    "region": 19,
+    "price_blocks": 136,
+    "matched_blocks": 134,
+    "dkp_observations": 5323,
+    "matched_dkp_observations": 5299
+  },
+  {
+    "region": 20,
+    "price_blocks": 130,
+    "matched_blocks": 120,
+    "dkp_observations": 10685,
+    "matched_dkp_observations": 10511
+  },
+  {
+    "region": 21,
+    "price_blocks": 240,
+    "matched_blocks": 235,
+    "dkp_observations": 14213,
+    "matched_dkp_observations": 14142
+  },
+  {
+    "region": 22,
+    "price_blocks": 591,
+    "matched_blocks": 578,
+    "dkp_observations": 28913,
+    "matched_dkp_observations": 28730
+  },
+  {
+    "region": 23,
+    "price_blocks": 1190,
+    "matched_blocks": 1176,
+    "dkp_observations": 61689,
+    "matched_dkp_observations": 61472
+  },
+  {
+    "region": 24,
+    "price_blocks": 858,
+    "matched_blocks": 799,
+    "dkp_observations": 46954,
+    "matched_dkp_observations": 44431
+  },
+  {
+    "region": 25,
+    "price_blocks": 421,
+    "matched_blocks": 416,
+    "dkp_observations": 32081,
+    "matched_dkp_observations": 32021
+  },
+  {
+    "region": 26,
+    "price_blocks": 558,
+    "matched_blocks": 550,
+    "dkp_observations": 23372,
+    "matched_dkp_observations": 23260
+  },
+  {
+    "region": 27,
+    "price_blocks": 643,
+    "matched_blocks": 623,
+    "dkp_observations": 23894,
+    "matched_dkp_observations": 23202
+  },
+  {
+    "region": 28,
+    "price_blocks": 358,
+    "matched_blocks": 357,
+    "dkp_observations": 10313,
+    "matched_dkp_observations": 10302
+  },
+  {
+    "region": 29,
+    "price_blocks": 374,
+    "matched_blocks": 372,
+    "dkp_observations": 17707,
+    "matched_dkp_observations": 17672
+  },
+  {
+    "region": 30,
+    "price_blocks": 268,
+    "matched_blocks": 267,
+    "dkp_observations": 11154,
+    "matched_dkp_observations": 11144
+  },
+  {
+    "region": 31,
+    "price_blocks": 359,
+    "matched_blocks": 344,
+    "dkp_observations": 15767,
+    "matched_dkp_observations": 15575
+  },
+  {
+    "region": 32,
+    "price_blocks": 395,
+    "matched_blocks": 395,
+    "dkp_observations": 12356,
+    "matched_dkp_observations": 12356
+  },
+  {
+    "region": 33,
+    "price_blocks": 655,
+    "matched_blocks": 637,
+    "dkp_observations": 22142,
+    "matched_dkp_observations": 21835
+  },
+  {
+    "region": 34,
+    "price_blocks": 442,
+    "matched_blocks": 420,
+    "dkp_observations": 28809,
+    "matched_dkp_observations": 28003
+  },
+  {
+    "region": 35,
+    "price_blocks": 170,
+    "matched_blocks": 170,
+    "dkp_observations": 5058,
+    "matched_dkp_observations": 5058
+  },
+  {
+    "region": 36,
+    "price_blocks": 551,
+    "matched_blocks": 547,
+    "dkp_observations": 31639,
+    "matched_dkp_observations": 31565
+  },
+  {
+    "region": 37,
+    "price_blocks": 472,
+    "matched_blocks": 469,
+    "dkp_observations": 14599,
+    "matched_dkp_observations": 14524
+  },
+  {
+    "region": 38,
+    "price_blocks": 428,
+    "matched_blocks": 370,
+    "dkp_observations": 35709,
+    "matched_dkp_observations": 30045
+  },
+  {
+    "region": 39,
+    "price_blocks": 521,
+    "matched_blocks": 521,
+    "dkp_observations": 16759,
+    "matched_dkp_observations": 16759
+  },
+  {
+    "region": 40,
+    "price_blocks": 380,
+    "matched_blocks": 371,
+    "dkp_observations": 12762,
+    "matched_dkp_observations": 12605
+  },
+  {
+    "region": 41,
+    "price_blocks": 63,
+    "matched_blocks": 62,
+    "dkp_observations": 4605,
+    "matched_dkp_observations": 4590
+  },
+  {
+    "region": 42,
+    "price_blocks": 541,
+    "matched_blocks": 540,
+    "dkp_observations": 31482,
+    "matched_dkp_observations": 31471
+  },
+  {
+    "region": 43,
+    "price_blocks": 546,
+    "matched_blocks": 509,
+    "dkp_observations": 20438,
+    "matched_dkp_observations": 19533
+  },
+  {
+    "region": 44,
+    "price_blocks": 242,
+    "matched_blocks": 240,
+    "dkp_observations": 8326,
+    "matched_dkp_observations": 8244
+  },
+  {
+    "region": 45,
+    "price_blocks": 229,
+    "matched_blocks": 228,
+    "dkp_observations": 9072,
+    "matched_dkp_observations": 9060
+  },
+  {
+    "region": 46,
+    "price_blocks": 266,
+    "matched_blocks": 250,
+    "dkp_observations": 13523,
+    "matched_dkp_observations": 12803
+  },
+  {
+    "region": 47,
+    "price_blocks": 413,
+    "matched_blocks": 412,
+    "dkp_observations": 18409,
+    "matched_dkp_observations": 18389
+  },
+  {
+    "region": 48,
+    "price_blocks": 333,
+    "matched_blocks": 331,
+    "dkp_observations": 13062,
+    "matched_dkp_observations": 13029
+  },
+  {
+    "region": 49,
+    "price_blocks": 95,
+    "matched_blocks": 95,
+    "dkp_observations": 3487,
+    "matched_dkp_observations": 3487
+  },
+  {
+    "region": 50,
+    "price_blocks": 1407,
+    "matched_blocks": 1400,
+    "dkp_observations": 87794,
+    "matched_dkp_observations": 87695
+  },
+  {
+    "region": 51,
+    "price_blocks": 311,
+    "matched_blocks": 308,
+    "dkp_observations": 14329,
+    "matched_dkp_observations": 14280
+  },
+  {
+    "region": 52,
+    "price_blocks": 1123,
+    "matched_blocks": 1109,
+    "dkp_observations": 41296,
+    "matched_dkp_observations": 40944
+  },
+  {
+    "region": 53,
+    "price_blocks": 212,
+    "matched_blocks": 203,
+    "dkp_observations": 8156,
+    "matched_dkp_observations": 8024
+  },
+  {
+    "region": 54,
+    "price_blocks": 952,
+    "matched_blocks": 947,
+    "dkp_observations": 47870,
+    "matched_dkp_observations": 47776
+  },
+  {
+    "region": 55,
+    "price_blocks": 275,
+    "matched_blocks": 265,
+    "dkp_observations": 25580,
+    "matched_dkp_observations": 25439
+  },
+  {
+    "region": 56,
+    "price_blocks": 646,
+    "matched_blocks": 636,
+    "dkp_observations": 29200,
+    "matched_dkp_observations": 29020
+  },
+  {
+    "region": 57,
+    "price_blocks": 236,
+    "matched_blocks": 236,
+    "dkp_observations": 8522,
+    "matched_dkp_observations": 8522
+  },
+  {
+    "region": 58,
+    "price_blocks": 328,
+    "matched_blocks": 324,
+    "dkp_observations": 18122,
+    "matched_dkp_observations": 18069
+  },
+  {
+    "region": 59,
+    "price_blocks": 1044,
+    "matched_blocks": 1036,
+    "dkp_observations": 43333,
+    "matched_dkp_observations": 43203
+  },
+  {
+    "region": 60,
+    "price_blocks": 127,
+    "matched_blocks": 127,
+    "dkp_observations": 3305,
+    "matched_dkp_observations": 3305
+  },
+  {
+    "region": 61,
+    "price_blocks": 1120,
+    "matched_blocks": 1092,
+    "dkp_observations": 43738,
+    "matched_dkp_observations": 43275
+  },
+  {
+    "region": 62,
+    "price_blocks": 351,
+    "matched_blocks": 351,
+    "dkp_observations": 17260,
+    "matched_dkp_observations": 17260
+  },
+  {
+    "region": 63,
+    "price_blocks": 863,
+    "matched_blocks": 860,
+    "dkp_observations": 42296,
+    "matched_dkp_observations": 42234
+  },
+  {
+    "region": 64,
+    "price_blocks": 381,
+    "matched_blocks": 380,
+    "dkp_observations": 15060,
+    "matched_dkp_observations": 15045
+  },
+  {
+    "region": 65,
+    "price_blocks": 112,
+    "matched_blocks": 84,
+    "dkp_observations": 2428,
+    "matched_dkp_observations": 1982
+  },
+  {
+    "region": 66,
+    "price_blocks": 1577,
+    "matched_blocks": 1570,
+    "dkp_observations": 90743,
+    "matched_dkp_observations": 90603
+  },
+  {
+    "region": 67,
+    "price_blocks": 414,
+    "matched_blocks": 406,
+    "dkp_observations": 13689,
+    "matched_dkp_observations": 13540
+  },
+  {
+    "region": 68,
+    "price_blocks": 84,
+    "matched_blocks": 83,
+    "dkp_observations": 2098,
+    "matched_dkp_observations": 2086
+  },
+  {
+    "region": 69,
+    "price_blocks": 526,
+    "matched_blocks": 519,
+    "dkp_observations": 16697,
+    "matched_dkp_observations": 16444
+  },
+  {
+    "region": 70,
+    "price_blocks": 204,
+    "matched_blocks": 187,
+    "dkp_observations": 17369,
+    "matched_dkp_observations": 16704
+  },
+  {
+    "region": 71,
+    "price_blocks": 426,
+    "matched_blocks": 416,
+    "dkp_observations": 22599,
+    "matched_dkp_observations": 22341
+  },
+  {
+    "region": 72,
+    "price_blocks": 258,
+    "matched_blocks": 257,
+    "dkp_observations": 30147,
+    "matched_dkp_observations": 30120
+  },
+  {
+    "region": 73,
+    "price_blocks": 337,
+    "matched_blocks": 334,
+    "dkp_observations": 19373,
+    "matched_dkp_observations": 19332
+  },
+  {
+    "region": 74,
+    "price_blocks": 1260,
+    "matched_blocks": 1256,
+    "dkp_observations": 64420,
+    "matched_dkp_observations": 64368
+  },
+  {
+    "region": 75,
+    "price_blocks": 308,
+    "matched_blocks": 299,
+    "dkp_observations": 9494,
+    "matched_dkp_observations": 9280
+  },
+  {
+    "region": 76,
+    "price_blocks": 511,
+    "matched_blocks": 464,
+    "dkp_observations": 23214,
+    "matched_dkp_observations": 22033
+  },
+  {
+    "region": 78,
+    "price_blocks": 1362,
+    "matched_blocks": 1360,
+    "dkp_observations": 94949,
+    "matched_dkp_observations": 94875
+  },
+  {
+    "region": 79,
+    "price_blocks": 26,
+    "matched_blocks": 26,
+    "dkp_observations": 700,
+    "matched_dkp_observations": 700
+  },
+  {
+    "region": 83,
+    "price_blocks": 15,
+    "matched_blocks": 14,
+    "dkp_observations": 372,
+    "matched_dkp_observations": 360
+  },
+  {
+    "region": 86,
+    "price_blocks": 370,
+    "matched_blocks": 355,
+    "dkp_observations": 25376,
+    "matched_dkp_observations": 24942
+  },
+  {
+    "region": 87,
+    "price_blocks": 27,
+    "matched_blocks": 21,
+    "dkp_observations": 798,
+    "matched_dkp_observations": 710
+  },
+  {
+    "region": 89,
+    "price_blocks": 99,
+    "matched_blocks": 99,
+    "dkp_observations": 2902,
+    "matched_dkp_observations": 2902
+  },
+  {
+    "region": 91,
+    "price_blocks": 305,
+    "matched_blocks": 303,
+    "dkp_observations": 16751,
+    "matched_dkp_observations": 16722
+  },
+  {
+    "region": 92,
+    "price_blocks": 78,
+    "matched_blocks": 78,
+    "dkp_observations": 4056,
+    "matched_dkp_observations": 4056
+  },
+  {
+    "region": 93,
+    "price_blocks": 11,
+    "matched_blocks": 0,
+    "dkp_observations": 146,
+    "matched_dkp_observations": 0
+  },
+  {
+    "region": 95,
+    "price_blocks": 2,
+    "matched_blocks": 0,
+    "dkp_observations": 22,
+    "matched_dkp_observations": 0
+  }
+]

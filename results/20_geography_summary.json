@@ -1,0 +1,132 @@
+{
+  "period": "2026-01-01",
+  "national": {
+    "quarter": "2026-01-01",
+    "observations": 212037,
+    "median_rub_m2": 89694.65648854962
+  },
+  "observed_regions": 87,
+  "northwest_regions": [
+    {
+      "region": 78,
+      "quarter": "2026-01-01",
+      "observations": 10788,
+      "p25_rub_m2": 149351.0,
+      "median_rub_m2": 193407.0,
+      "p75_rub_m2": 243056.0,
+      "region_name": "Санкт-Петербург",
+      "rank_in_observed_regions": 1,
+      "relative_to_national_pct": 115.63
+    },
+    {
+      "region": 47,
+      "quarter": "2026-01-01",
+      "observations": 4082,
+      "p25_rub_m2": 71066.0,
+      "median_rub_m2": 116848.0,
+      "p75_rub_m2": 166667.0,
+      "region_name": "Ленинградская область",
+      "rank_in_observed_regions": 11,
+      "relative_to_national_pct": 30.27
+    },
+    {
+      "region": 39,
+      "quarter": "2026-01-01",
+      "observations": 2177,
+      "p25_rub_m2": 70796.0,
+      "median_rub_m2": 109661.0,
+      "p75_rub_m2": 140690.0,
+      "region_name": "Калининградская область",
+      "rank_in_observed_regions": 16,
+      "relative_to_national_pct": 22.26
+    },
+    {
+      "region": 83,
+      "quarter": "2026-01-01",
+      "observations": 82,
+      "p25_rub_m2": 89577.0,
+      "median_rub_m2": 107303.0,
+      "p75_rub_m2": 120907.0,
+      "region_name": "Ненецкий АО",
+      "rank_in_observed_regions": 17,
+      "relative_to_national_pct": 19.63
+    },
+    {
+      "region": 29,
+      "quarter": "2026-01-01",
+      "observations": 2431,
+      "p25_rub_m2": 51136.0,
+      "median_rub_m2": 91241.0,
+      "p75_rub_m2": 119427.0,
+      "region_name": "Архангельская область",
+      "rank_in_observed_regions": 29,
+      "relative_to_national_pct": 1.72
+    },
+    {
+      "region": 10,
+      "quarter": "2026-01-01",
+      "observations": 1265,
+      "p25_rub_m2": 52067.0,
+      "median_rub_m2": 88704.0,
+      "p75_rub_m2": 115385.0,
+      "region_name": "Республика Карелия",
+      "rank_in_observed_regions": 38,
+      "relative_to_national_pct": -1.1
+    },
+    {
+      "region": 53,
+      "quarter": "2026-01-01",
+      "observations": 1227,
+      "p25_rub_m2": 46512.0,
+      "median_rub_m2": 75388.0,
+      "p75_rub_m2": 102389.0,
+      "region_name": "Новгородская область",
+      "rank_in_observed_regions": 57,
+      "relative_to_national_pct": -15.95
+    },
+    {
+      "region": 60,
+      "quarter": "2026-01-01",
+      "observations": 707,
+      "p25_rub_m2": 45666.0,
+      "median_rub_m2": 73198.0,
+      "p75_rub_m2": 92408.0,
+      "region_name": "Псковская область",
+      "rank_in_observed_regions": 60,
+      "relative_to_national_pct": -18.39
+    },
+    {
+      "region": 51,
+      "quarter": "2026-01-01",
+      "observations": 1713,
+      "p25_rub_m2": 46667.0,
+      "median_rub_m2": 71569.0,
+      "p75_rub_m2": 99089.0,
+      "region_name": "Мурманская область",
+      "rank_in_observed_regions": 63,
+      "relative_to_national_pct": -20.21
+    },
+    {
+      "region": 35,
+      "quarter": "2026-01-01",
+      "observations": 33,
+      "p25_rub_m2": 24450.0,
+      "median_rub_m2": 63776.0,
+      "p75_rub_m2": 81776.0,
+      "region_name": "Вологодская область",
+      "rank_in_observed_regions": 76,
+      "relative_to_national_pct": -28.9
+    },
+    {
+      "region": 11,
+      "quarter": "2026-01-01",
+      "observations": 1748,
+      "p25_rub_m2": 20624.0,
+      "median_rub_m2": 51896.0,
+      "p75_rub_m2": 86522.0,
+      "region_name": "Республика Коми",
+      "rank_in_observed_regions": 80,
+      "relative_to_national_pct": -42.14
+    }
+  ]
+}

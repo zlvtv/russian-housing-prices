@@ -1,0 +1,47 @@
+[
+  {
+    "quarter": "2024-01-01",
+    "observations": 222273,
+    "median_rub_m2": 72164.94845360825
+  },
+  {
+    "quarter": "2024-04-01",
+    "observations": 248701,
+    "median_rub_m2": 73504.2735042735
+  },
+  {
+    "quarter": "2024-07-01",
+    "observations": 208939,
+    "median_rub_m2": 74029.85074626865
+  },
+  {
+    "quarter": "2024-10-01",
+    "observations": 223540,
+    "median_rub_m2": 76446.28099173553
+  },
+  {
+    "quarter": "2025-01-01",
+    "observations": 175776,
+    "median_rub_m2": 79254.07925407926
+  },
+  {
+    "quarter": "2025-04-01",
+    "observations": 198757,
+    "median_rub_m2": 80901.85676392572
+  },
+  {
+    "quarter": "2025-07-01",
+    "observations": 225358,
+    "median_rub_m2": 82647.05882352941
+  },
+  {
+    "quarter": "2025-10-01",
+    "observations": 237043,
+    "median_rub_m2": 87077.8125
+  },
+  {
+    "quarter": "2026-01-01",
+    "observations": 212037,
+    "median_rub_m2": 89694.65648854962
+  }
+]

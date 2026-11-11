@@ -1,0 +1,17 @@
+[
+  {
+    "source": "deals",
+    "file": "real_property_deals_russia_2024-2026.csv",
+    "bytes": 1330536491
+  },
+  {
+    "source": "housing",
+    "file": "gisgkh_20260917.csv",
+    "bytes": 584316632
+  },
+  {
+    "source": "cian",
+    "file": "cian_2024_2025.csv",
+    "bytes": 278191340
+  }
+]

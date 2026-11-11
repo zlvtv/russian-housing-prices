@@ -1,0 +1,110 @@
+[
+  {
+    "region": 47,
+    "quarter": "2024-01-01",
+    "observations": 3717,
+    "tukey_flagged": 0
+  },
+  {
+    "region": 47,
+    "quarter": "2024-04-01",
+    "observations": 4148,
+    "tukey_flagged": 2
+  },
+  {
+    "region": 47,
+    "quarter": "2024-07-01",
+    "observations": 2678,
+    "tukey_flagged": 1
+  },
+  {
+    "region": 47,
+    "quarter": "2024-10-01",
+    "observations": 627,
+    "tukey_flagged": 1
+  },
+  {
+    "region": 47,
+    "quarter": "2025-01-01",
+    "observations": 479,
+    "tukey_flagged": 0
+  },
+  {
+    "region": 47,
+    "quarter": "2025-04-01",
+    "observations": 690,
+    "tukey_flagged": 4
+  },
+  {
+    "region": 47,
+    "quarter": "2025-07-01",
+    "observations": 902,
+    "tukey_flagged": 0
+  },
+  {
+    "region": 47,
+    "quarter": "2025-10-01",
+    "observations": 3702,
+    "tukey_flagged": 0
+  },
+  {
+    "region": 47,
+    "quarter": "2026-01-01",
+    "observations": 4082,
+    "tukey_flagged": 1
+  },
+  {
+    "region": 78,
+    "quarter": "2024-01-01",
+    "observations": 9585,
+    "tukey_flagged": 260
+  },
+  {
+    "region": 78,
+    "quarter": "2024-04-01",
+    "observations": 10967,
+    "tukey_flagged": 320
+  },
+  {
+    "region": 78,
+    "quarter": "2024-07-01",
+    "observations": 9180,
+    "tukey_flagged": 272
+  },
+  {
+    "region": 78,
+    "quarter": "2024-10-01",
+    "observations": 12535,
+    "tukey_flagged": 410
+  },
+  {
+    "region": 78,
+    "quarter": "2025-01-01",
+    "observations": 10168,
+    "tukey_flagged": 539
+  },
+  {
+    "region": 78,
+    "quarter": "2025-04-01",
+    "observations": 10216,
+    "tukey_flagged": 333
+  },
+  {
+    "region": 78,
+    "quarter": "2025-07-01",
+    "observations": 11316,
+    "tukey_flagged": 489
+  },
+  {
+    "region": 78,
+    "quarter": "2025-10-01",
+    "observations": 13207,
+    "tukey_flagged": 614
+  },
+  {
+    "region": 78,
+    "quarter": "2026-01-01",
+    "observations": 10788,
+    "tukey_flagged": 509
+  }
+]

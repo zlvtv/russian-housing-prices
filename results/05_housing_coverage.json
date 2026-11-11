@@ -1,0 +1,427 @@
+[
+  {
+    "region_name": "Алтайский край",
+    "rows": 9542,
+    "with_cadastral_quarter": 9238
+  },
+  {
+    "region_name": "Амурская область",
+    "rows": 14614,
+    "with_cadastral_quarter": 13623
+  },
+  {
+    "region_name": "Архангельская область (с автономным округом)",
+    "rows": 23145,
+    "with_cadastral_quarter": 21008
+  },
+  {
+    "region_name": "Астраханская область",
+    "rows": 5944,
+    "with_cadastral_quarter": 5905
+  },
+  {
+    "region_name": "Белгородская область",
+    "rows": 5956,
+    "with_cadastral_quarter": 5932
+  },
+  {
+    "region_name": "Брянская область",
+    "rows": 7344,
+    "with_cadastral_quarter": 7201
+  },
+  {
+    "region_name": "Владимирская область",
+    "rows": 13033,
+    "with_cadastral_quarter": 12987
+  },
+  {
+    "region_name": "Волгоградская область",
+    "rows": 12410,
+    "with_cadastral_quarter": 12006
+  },
+  {
+    "region_name": "Вологодская область",
+    "rows": 17434,
+    "with_cadastral_quarter": 17111
+  },
+  {
+    "region_name": "Воронежская область",
+    "rows": 10220,
+    "with_cadastral_quarter": 10174
+  },
+  {
+    "region_name": "Еврейская автономная область",
+    "rows": 1439,
+    "with_cadastral_quarter": 1428
+  },
+  {
+    "region_name": "Забайкальский край",
+    "rows": 5414,
+    "with_cadastral_quarter": 5110
+  },
+  {
+    "region_name": "Ивановская область",
+    "rows": 10641,
+    "with_cadastral_quarter": 10552
+  },
+  {
+    "region_name": "Иркутская область",
+    "rows": 20006,
+    "with_cadastral_quarter": 19772
+  },
+  {
+    "region_name": "Кабардино-Балкарская Республика",
+    "rows": 3016,
+    "with_cadastral_quarter": 2991
+  },
+  {
+    "region_name": "Калининградская область",
+    "rows": 22022,
+    "with_cadastral_quarter": 21690
+  },
+  {
+    "region_name": "Калужская область",
+    "rows": 9783,
+    "with_cadastral_quarter": 9673
+  },
+  {
+    "region_name": "Камчатский край",
+    "rows": 3614,
+    "with_cadastral_quarter": 3459
+  },
+  {
+    "region_name": "Карачаево-Черкесская Республика",
+    "rows": 1351,
+    "with_cadastral_quarter": 1280
+  },
+  {
+    "region_name": "Кемеровская область",
+    "rows": 15950,
+    "with_cadastral_quarter": 15882
+  },
+  {
+    "region_name": "Кировская область",
+    "rows": 12790,
+    "with_cadastral_quarter": 12627
+  },
+  {
+    "region_name": "Костромская область",
+    "rows": 7244,
+    "with_cadastral_quarter": 7204
+  },
+  {
+    "region_name": "Краснодарский край",
+    "rows": 25534,
+    "with_cadastral_quarter": 24950
+  },
+  {
+    "region_name": "Красноярский край",
+    "rows": 16416,
+    "with_cadastral_quarter": 16285
+  },
+  {
+    "region_name": "Курганская область",
+    "rows": 4494,
+    "with_cadastral_quarter": 4458
+  },
+  {
+    "region_name": "Курская область",
+    "rows": 6024,
+    "with_cadastral_quarter": 5972
+  },
+  {
+    "region_name": "Ленинградская область",
+    "rows": 16780,
+    "with_cadastral_quarter": 16632
+  },
+  {
+    "region_name": "Липецкая область",
+    "rows": 6703,
+    "with_cadastral_quarter": 6694
+  },
+  {
+    "region_name": "Магаданская область",
+    "rows": 1583,
+    "with_cadastral_quarter": 1565
+  },
+  {
+    "region_name": "Москва",
+    "rows": 34947,
+    "with_cadastral_quarter": 34882
+  },
+  {
+    "region_name": "Московская область",
+    "rows": 52104,
+    "with_cadastral_quarter": 50926
+  },
+  {
+    "region_name": "Мурманская область",
+    "rows": 6735,
+    "with_cadastral_quarter": 6645
+  },
+  {
+    "region_name": "Ненецкий автономный округ",
+    "rows": 621,
+    "with_cadastral_quarter": 619
+  },
+  {
+    "region_name": "Нижегородская область",
+    "rows": 29738,
+    "with_cadastral_quarter": 29525
+  },
+  {
+    "region_name": "Новгородская область",
+    "rows": 6187,
+    "with_cadastral_quarter": 6160
+  },
+  {
+    "region_name": "Новосибирская область",
+    "rows": 16716,
+    "with_cadastral_quarter": 16107
+  },
+  {
+    "region_name": "Омская область",
+    "rows": 9566,
+    "with_cadastral_quarter": 9472
+  },
+  {
+    "region_name": "Оренбургская область",
+    "rows": 10940,
+    "with_cadastral_quarter": 10800
+  },
+  {
+    "region_name": "Орловская область",
+    "rows": 4724,
+    "with_cadastral_quarter": 4705
+  },
+  {
+    "region_name": "Пензенская область",
+    "rows": 7062,
+    "with_cadastral_quarter": 6572
+  },
+  {
+    "region_name": "Пермский край",
+    "rows": 17708,
+    "with_cadastral_quarter": 17510
+  },
+  {
+    "region_name": "Приморский край",
+    "rows": 13437,
+    "with_cadastral_quarter": 13148
+  },
+  {
+    "region_name": "Псковская область",
+    "rows": 6020,
+    "with_cadastral_quarter": 5897
+  },
+  {
+    "region_name": "Республика Адыгея",
+    "rows": 2078,
+    "with_cadastral_quarter": 2029
+  },
+  {
+    "region_name": "Республика Алтай",
+    "rows": 513,
+    "with_cadastral_quarter": 504
+  },
+  {
+    "region_name": "Республика Башкортостан",
+    "rows": 18716,
+    "with_cadastral_quarter": 18586
+  },
+  {
+    "region_name": "Республика Бурятия",
+    "rows": 5132,
+    "with_cadastral_quarter": 4954
+  },
+  {
+    "region_name": "Республика Дагестан",
+    "rows": 5032,
+    "with_cadastral_quarter": 4215
+  },
+  {
+    "region_name": "Республика Ингушетия",
+    "rows": 510,
+    "with_cadastral_quarter": 459
+  },
+  {
+    "region_name": "Республика Калмыкия",
+    "rows": 1140,
+    "with_cadastral_quarter": 1122
+  },
+  {
+    "region_name": "Республика Карелия",
+    "rows": 24514,
+    "with_cadastral_quarter": 22674
+  },
+  {
+    "region_name": "Республика Коми",
+    "rows": 10468,
+    "with_cadastral_quarter": 9670
+  },
+  {
+    "region_name": "Республика Крым",
+    "rows": 12851,
+    "with_cadastral_quarter": 12756
+  },
+  {
+    "region_name": "Республика Марий Эл",
+    "rows": 5748,
+    "with_cadastral_quarter": 5552
+  },
+  {
+    "region_name": "Республика Мордовия",
+    "rows": 5372,
+    "with_cadastral_quarter": 5059
+  },
+  {
+    "region_name": "Республика Саха (Якутия)",
+    "rows": 11648,
+    "with_cadastral_quarter": 10683
+  },
+  {
+    "region_name": "Республика Северная Осетия — Алания",
+    "rows": 3116,
+    "with_cadastral_quarter": 2909
+  },
+  {
+    "region_name": "Республика Татарстан",
+    "rows": 18392,
+    "with_cadastral_quarter": 18322
+  },
+  {
+    "region_name": "Республика Тыва",
+    "rows": 639,
+    "with_cadastral_quarter": 604
+  },
+  {
+    "region_name": "Республика Хакасия",
+    "rows": 3026,
+    "with_cadastral_quarter": 2999
+  },
+  {
+    "region_name": "Ростовская область",
+    "rows": 21725,
+    "with_cadastral_quarter": 21528
+  },
+  {
+    "region_name": "Рязанская область",
+    "rows": 8040,
+    "with_cadastral_quarter": 8025
+  },
+  {
+    "region_name": "Самарская область",
+    "rows": 21315,
+    "with_cadastral_quarter": 20990
+  },
+  {
+    "region_name": "Санкт-Петербург",
+    "rows": 24558,
+    "with_cadastral_quarter": 24548
+  },
+  {
+    "region_name": "Саратовская область",
+    "rows": 14563,
+    "with_cadastral_quarter": 14257
+  },
+  {
+    "region_name": "Сахалинская область",
+    "rows": 10549,
+    "with_cadastral_quarter": 10137
+  },
+  {
+    "region_name": "Свердловская область",
+    "rows": 34073,
+    "with_cadastral_quarter": 33722
+  },
+  {
+    "region_name": "Севастополь",
+    "rows": 3783,
+    "with_cadastral_quarter": 3522
+  },
+  {
+    "region_name": "Смоленская область",
+    "rows": 7373,
+    "with_cadastral_quarter": 7187
+  },
+  {
+    "region_name": "Ставропольский край",
+    "rows": 11320,
+    "with_cadastral_quarter": 11224
+  },
+  {
+    "region_name": "Тамбовская область",
+    "rows": 6776,
+    "with_cadastral_quarter": 6590
+  },
+  {
+    "region_name": "Тверская область",
+    "rows": 15647,
+    "with_cadastral_quarter": 15252
+  },
+  {
+    "region_name": "Томская область",
+    "rows": 7161,
+    "with_cadastral_quarter": 6766
+  },
+  {
+    "region_name": "Тульская область",
+    "rows": 14109,
+    "with_cadastral_quarter": 14046
+  },
+  {
+    "region_name": "Тюменская область (с автономными округами)",
+    "rows": 9212,
+    "with_cadastral_quarter": 9005
+  },
+  {
+    "region_name": "Удмуртская Республика",
+    "rows": 8628,
+    "with_cadastral_quarter": 8289
+  },
+  {
+    "region_name": "Ульяновская область",
+    "rows": 7706,
+    "with_cadastral_quarter": 7626
+  },
+  {
+    "region_name": "Хабаровский край",
+    "rows": 9659,
+    "with_cadastral_quarter": 9569
+  },
+  {
+    "region_name": "Ханты-Мансийский автономный округ — Югра",
+    "rows": 12872,
+    "with_cadastral_quarter": 12536
+  },
+  {
+    "region_name": "Челябинская область",
+    "rows": 21792,
+    "with_cadastral_quarter": 21143
+  },
+  {
+    "region_name": "Чеченская Республика",
+    "rows": 2313,
+    "with_cadastral_quarter": 2122
+  },
+  {
+    "region_name": "Чувашская Республика",
+    "rows": 5882,
+    "with_cadastral_quarter": 5792
+  },
+  {
+    "region_name": "Чукотский автономный округ",
+    "rows": 1145,
+    "with_cadastral_quarter": 1133
+  },
+  {
+    "region_name": "Ямало-Ненецкий автономный округ",
+    "rows": 7401,
+    "with_cadastral_quarter": 7351
+  },
+  {
+    "region_name": "Ярославская область",
+    "rows": 12699,
+    "with_cadastral_quarter": 12615
+  }
+]

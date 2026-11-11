@@ -1,0 +1,21 @@
+{
+  "master": "local-cluster[2,2,1024]",
+  "registered_endpoints_including_driver": [
+    "127.0.0.1:54770",
+    "127.0.0.1:54771",
+    "localhost:54759"
+  ],
+  "shuffle_partitions": "24",
+  "input_partitions": 12,
+  "observations": 1952424,
+  "groups": 475354,
+  "runs_seconds": [
+    1.981,
+    1.841,
+    1.952
+  ],
+  "warmup_seconds": 4.657,
+  "fresh_aggregation_each_trial": true,
+  "median_seconds": 1.952,
+  "aggregation_sha256": "2fdfdde458e0053466f4e79cf268a85a515410b759f36eb467255acb72f7a7b7"
+}

@@ -1,0 +1,162 @@
+[
+  {
+    "city_name": "Chelyabinsk",
+    "category": "flat rent",
+    "count": 5623
+  },
+  {
+    "city_name": "Chelyabinsk",
+    "category": "flat sale",
+    "count": 7063
+  },
+  {
+    "city_name": "Kazan",
+    "category": "flat rent",
+    "count": 7393
+  },
+  {
+    "city_name": "Kazan",
+    "category": "flat sale",
+    "count": 11894
+  },
+  {
+    "city_name": "Krasnodar",
+    "category": "flat rent",
+    "count": 9890
+  },
+  {
+    "city_name": "Krasnodar",
+    "category": "flat sale",
+    "count": 12373
+  },
+  {
+    "city_name": "Krasnoyarsk",
+    "category": "flat rent",
+    "count": 9220
+  },
+  {
+    "city_name": "Krasnoyarsk",
+    "category": "flat sale",
+    "count": 7659
+  },
+  {
+    "city_name": "Moscow",
+    "category": "flat rent",
+    "count": 83473
+  },
+  {
+    "city_name": "Moscow",
+    "category": "flat sale",
+    "count": 79735
+  },
+  {
+    "city_name": "Nizhny Novgorod",
+    "category": "flat rent",
+    "count": 6731
+  },
+  {
+    "city_name": "Nizhny Novgorod",
+    "category": "flat sale",
+    "count": 12041
+  },
+  {
+    "city_name": "Novosibirsk",
+    "category": "flat rent",
+    "count": 8293
+  },
+  {
+    "city_name": "Novosibirsk",
+    "category": "flat sale",
+    "count": 11597
+  },
+  {
+    "city_name": "Omsk",
+    "category": "flat rent",
+    "count": 5764
+  },
+  {
+    "city_name": "Omsk",
+    "category": "flat sale",
+    "count": 9132
+  },
+  {
+    "city_name": "Perm",
+    "category": "flat rent",
+    "count": 3809
+  },
+  {
+    "city_name": "Perm",
+    "category": "flat sale",
+    "count": 5662
+  },
+  {
+    "city_name": "Rostov-on-Don",
+    "category": "flat rent",
+    "count": 7198
+  },
+  {
+    "city_name": "Rostov-on-Don",
+    "category": "flat sale",
+    "count": 10392
+  },
+  {
+    "city_name": "Saint Petersburg",
+    "category": "flat rent",
+    "count": 32441
+  },
+  {
+    "city_name": "Saint Petersburg",
+    "category": "flat sale",
+    "count": 37471
+  },
+  {
+    "city_name": "Samara",
+    "category": "flat rent",
+    "count": 5069
+  },
+  {
+    "city_name": "Samara",
+    "category": "flat sale",
+    "count": 9315
+  },
+  {
+    "city_name": "Ufa",
+    "category": "flat rent",
+    "count": 5807
+  },
+  {
+    "city_name": "Ufa",
+    "category": "flat sale",
+    "count": 9149
+  },
+  {
+    "city_name": "Volgograd",
+    "category": "flat rent",
+    "count": 3778
+  },
+  {
+    "city_name": "Volgograd",
+    "category": "flat sale",
+    "count": 7706
+  },
+  {
+    "city_name": "Voronezh",
+    "category": "flat rent",
+    "count": 4057
+  },
+  {
+    "city_name": "Voronezh",
+    "category": "flat sale",
+    "count": 5762
+  },
+  {
+    "city_name": "Yekaterinburg",
+    "category": "flat rent",
+    "count": 9578
+  },
+  {
+    "city_name": "Yekaterinburg",
+    "category": "flat sale",
+    "count": 11107
+  }
+]

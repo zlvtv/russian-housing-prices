@@ -1,0 +1,54 @@
+[
+  {
+    "region": 47,
+    "characteristic": "median_building_year",
+    "all_matched_blocks": 412,
+    "complete_blocks": 411,
+    "analyzed_blocks": 398,
+    "cadastral_districts": 24,
+    "within_district_rank_correlation": 0.4474,
+    "district_bootstrap_95": [
+      0.3033,
+      0.5512
+    ]
+  },
+  {
+    "region": 47,
+    "characteristic": "average_reported_deterioration",
+    "all_matched_blocks": 412,
+    "complete_blocks": 411,
+    "analyzed_blocks": 398,
+    "cadastral_districts": 24,
+    "within_district_rank_correlation": -0.4024,
+    "district_bootstrap_95": [
+      -0.5101,
+      -0.2645
+    ]
+  },
+  {
+    "region": 78,
+    "characteristic": "median_building_year",
+    "all_matched_blocks": 1360,
+    "complete_blocks": 1359,
+    "analyzed_blocks": 1357,
+    "cadastral_districts": 16,
+    "within_district_rank_correlation": 0.3329,
+    "district_bootstrap_95": [
+      0.2149,
+      0.4523
+    ]
+  },
+  {
+    "region": 78,
+    "characteristic": "average_reported_deterioration",
+    "all_matched_blocks": 1360,
+    "complete_blocks": 1344,
+    "analyzed_blocks": 1342,
+    "cadastral_districts": 16,
+    "within_district_rank_correlation": -0.3749,
+    "district_bootstrap_95": [
+      -0.4568,
+      -0.2957
+    ]
+  }
+]
